@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is my first tutorial project.
 <!--
 **nkongsah/nkongsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
